@@ -61,7 +61,7 @@
     "node": ">=14.18.0"
   },
   "dependencies": {
-    "markdown-it": "13.0.1"
+    "markdown-it": "13.0.2"
   },
   "devDependencies": {
     "ava": "5.1.0",
